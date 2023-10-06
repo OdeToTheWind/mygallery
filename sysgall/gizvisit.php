@@ -105,13 +105,16 @@
     <div class="row">
     <div class="album-card-br">
             <br><h3 >GIZ Visit'23 </h3>   
-            /* hello style="width:100%; height:580px; display:none; */ 
+           
 
             <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
+<div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none; "
   data-link="https://photos.app.goo.gl/GZtdtfKsYZq5g5jQ9"
   data-title="GIZ Visit&#39;23 "
-  data-description="7 new items · Album by Speech Recognition India">
+  data-description="10 new items · Album by Speech Recognition India">
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHcvoZxj8V_QnSCiZXy08gPv475iHdXQDegxmWsL_q9PfHJTwrTINRNCes8RzWOlnAYsUJsQxxcc26X7mYgxZvCOviNmpdBe8Dck4E7tmc25xml06tE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHcabXQZhgbb1XLFByilS0wZXltdDcP6EUTuZ3mIVgSTu__IK6_BR8ZbFINgww8GxMVSAk7NLbYQ2ZFTOaZAA00_SBhtqydzUErkzykN7HfjcxrxcWc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/ADCreHeZy3nmPOrx6fqh89dnYrhflqEGR7aF6SqPoIdcQfsBqtHcv6yzTPx9TmOXzKYMgUcTZAYEe7xsOlbhGUbMhCfhxv6IQ_Z7QJESXukjk9v4RCnzA0o=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHfZNAC26WGNvpAjUAhE49FZGpaenLvf_hX2jILnE_6KxHgim9eGHYweJ1EpODCHB-x4RjgfBSbM67Mm9wJ46I0rKpr08dZ-EQdjHiZhax8cfkRCZ10=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcwYvY8F0zNrYSf0ocjl9dH4LaY11IR0A91F3a_vkba4xRj81eSKiSqu7cKK2a25KOmtHAI2PCI6cpWYA4x7pjY5mF06L3M88PbSS6zYqm_ngP8fes=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHdai_8U3nEYJFF54fdt7jYbMkR7LdiUA-670Zfvyyced5gB-f0n2YAUpiTf0JNPMQVQm9UqNo4NHUUNKu3ZP1AjUpZETKB6ZUvs8NbrW8l7fjDeu7o=w1920-h1080"></object>
@@ -120,6 +123,7 @@
   <object data="https://lh3.googleusercontent.com/pw/ADCreHcsvtIhiE716Ohb7WH6ET3xcU6wqTWtTXz8l8kAfl5P9PMwvlldeMh5jX2o5ZoZXh7N2H38EsDXw8o8FvF2NoqNzszPrLeBLbKCuup_Gnm7RvxY-Tw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHe12Sxh--3ifOQv_gnyGPuqHZVxTSp-g7U05xSj5PTpacBiU6kzVXy0gC5DCj6mGJDzDsZjFVXUvyh3XtvsguRMbmMP4mJ2X5OQSCJnPtJ76YPrYFs=w1920-h1080"></object>
 </div>
+
 
         
             </div>
