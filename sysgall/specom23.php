@@ -113,17 +113,17 @@
     
         <h1>SYSPIN </h1>
         <h1>Text-to-speech synthesizer in nine Indian languages</h1>
-        <h2>SPECOM'23 Visit</h2>
+        <h2>SPECOM'23 Conference</h2>
 <div class="container" >
     <div class="row">
         <div class="album-card-br">
-            <br><h3 >SPECOM'23 Visit</h3>
+            <br><h3 >SPECOM'23 Conference</h3>
             
           <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-            <div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
+            <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
               data-link="https://photos.app.goo.gl/XwDYDR1GqvSwiJzk9"
-              data-title="SPECOM&#39;23 Visit"
-              data-description="18 new items · Album by Speech Recognition India">
+              data-title="SPECOM&#39;23 Conference"
+              data-description="22 new items · Album by Speech Recognition India">
               <object data="https://lh3.googleusercontent.com/pw/ADCreHdLzkgcAlrD4xjPauV4_sGZOjULgW-aTH4XT6S_rkId3YfCc0sWiEmUjbRLueUfXvcmqIr7cCO2TqvjTghcxl-jMP0vQ3YGctnCMp4yrcj68mZOJQ=w1920-h1080"></object>
               <object data="https://lh3.googleusercontent.com/pw/ADCreHdiT6zZXrXG9GiC_Fk2YeZufrUQ0c0DsZiZc3AEI5FXLapys53MUyr1CBUv9wRZkxGw8nUDTT0duk7K31rTTolDqsMdyqrOiPgSh66hgB80hqTTAg=w1920-h1080"></object>
               <object data="https://lh3.googleusercontent.com/pw/ADCreHcvPYMdQdXghzURYZst5PlF_p5IRPzJvW2dRqf5X09ZO5F5kZWEcQFnGzb_2bpXNM8KIrDnOGP611NejB88sWf49nQPat_Z7d0qMBpY3gc9SFhFRA=w1920-h1080"></object>
@@ -142,7 +142,12 @@
               <object data="https://lh3.googleusercontent.com/pw/ADCreHft4N1z9NMhaNk-GSlk9cyx9SB6LHKlYciZOcoStN5wLNBegGdfRdCiGZr2xXSBJBQmxD1Pt_sFqRGJkou0-VhKHmP2WOX7KsC6OfHEwap9PGzWEw=w1920-h1080"></object>
               <object data="https://lh3.googleusercontent.com/pw/ADCreHf_vabCRANeggegVAytv_LrjpE6_P-WmlB_yWRpWu7O_yEDMgp785MwAGTyOkD5rwhoPzKo0KoUEalgdBr3vSvrTGAvqGX2cCyYyRaI31xRig-kbw=w1920-h1080"></object>
               <object data="https://lh3.googleusercontent.com/pw/ADCreHcW2zv68hyUHN1DYnpmrcOJ_GxhVKhsy2Mov0Eoumy0rV46udjD_5MbdSRR8OJ9RQKOeBvJyhokX9ClsUCjRyx8wXvLCXyerYlRoz10at-9zQ8pWQ=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/ADCreHePfceeYjs6Zy4Jp2kAa08dKcsvWzFumJQqGEGdl2vMgODHyDUoiiyKdq9pvsi4Icq4em7hQYakLUBzSqR43XuSE9cqRDIg-lD2OHrk_xMozuvt8g=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/ADCreHdo5WvuXFjN7opLQd4dEqLwsckMUlGrLO_Pke0xtAaxquUXTBMnKLfR4VIzkpY8gAPZqnXrpYsJ5HhnADcOo7_dhxVyuQ6rE_LXJg-fbeMD0mCDhQ=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/ADCreHegbiPw92vadz42aWPu7YWcs7alKg0OSwbIhJAHb-zxxVwN6jvMMAZ7-ifPVh5PwQ-K8hH9s_bbTs3ExpuTeRx4cfZxazGB87WZ-36Hv2Rv4clx_w=w1920-h1080"></object>
+              <object data="https://lh3.googleusercontent.com/pw/ADCreHeQQLx9rqrKYODUMoFd9YRDs2hjJDrUsmNL6g2DXQosMGwo6pmKcJjcX-onEoQjVBMDoP4VRgHbOH0x5ejcn32wLo8NdQo7cVLFZNOR4fER-lbkOw=w1920-h1080"></object>
             </div>
+
 
         </div>   
     </div>        
