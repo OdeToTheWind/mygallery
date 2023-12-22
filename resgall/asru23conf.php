@@ -116,15 +116,8 @@
     <div class="row">
     <div class="album-card-br">
             <br><h3 >Visit to CSTS</h3>
-            <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-            <div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
-                data-link="https://photos.app.goo.gl/nKaCxMQbYWpLLzSaA"
-                data-title="Visit to CSTS"
-                data-description="2 new items added to shared album">
-                <object data="https://lh3.googleusercontent.com/pw/AJFCJaXnUTnHo81ZXH0ZEYytQD9n3tpghyDQC8IqbuOl4Wx41SbFrHyoW4FRzaggu0nuDyjKdLHvmpQcw78uX8Ifa22jtHJWErSckVdoLbKIxtAQUkocVcU=w1920-h1080"></object>
-                <object data="https://lh3.googleusercontent.com/pw/AJFCJaUgPg1NAUcfpBivAdEgefqlF3a0B__fxm7JFioYpYPpU57HknowUOjhQtFowONG70zMaOw7dIWf83-iOLPx5Wz5hDLX8Ok7nLE1_ixaubcs4EFsylA=w1920-h1080"></object>
-            </div>
-        </div>
+            
+    </div>
     </div>        
 </div>
 </body>
