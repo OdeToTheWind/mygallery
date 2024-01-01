@@ -115,7 +115,7 @@
 <div class="container" >
     <div class="row">
     <div class="album-card-br">
-            <br><h3 >Visit to CSTS</h3>
+            <br><h3 >ASRU'23 Conference</h3>
         
         <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
         <div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
