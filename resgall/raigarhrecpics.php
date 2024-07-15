@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Raigrah Racording Photos</title>
+        <title>Raigarh Recording Photos</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Jost:wght@200&family=Roboto&display=swap" rel="stylesheet"> 
@@ -111,11 +111,11 @@
     
         <h1>RESPIN</h1>
         <h1>Speech Recognition in Agriculture and Finance for the Poor in India</h1>
-        <h2>Raigrah Racording Photos</h2>
+        <h2>Raigarh Recording Photos</h2>
 <div class="container" >
     <div class="row">
     <div class="album-card-br">
-            <br><h3 >Raigrah Racording Photos</h3>
+            <br><h3 >Raigarh Recording Photos</h3>
         
         <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
