@@ -120,7 +120,7 @@
             <br><h3 >SPECOM'23 Conference</h3>
             
           <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-            <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+            <div class="pa-gallery-player-widget" style="width:100%; height:580px; display:none;"
               data-link="https://photos.app.goo.gl/XwDYDR1GqvSwiJzk9"
               data-title="SPECOM&#39;23 Conference"
               data-description="17 new items · Album by Speech Recognition India">
